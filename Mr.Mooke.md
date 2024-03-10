@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python learning
 - 📫 How to reach me Email
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+- 😄 Pronouns: Young person
+- ⚡ Fun fact: Breaking
 
 <!---
 MrMooke/MrMooke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
